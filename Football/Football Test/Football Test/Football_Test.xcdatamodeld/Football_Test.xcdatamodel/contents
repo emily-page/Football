@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13240" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Form" representedClassName="Form" syncable="YES" codeGenerationType="class">
+        <attribute name="down" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="formImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="formName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="yard" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Play" representedClassName="Play" syncable="YES" codeGenerationType="class">
+        <attribute name="playImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="playName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+<<<<<<< HEAD
+        <element name="Form" positionX="-63" positionY="-18" width="128" height="105"/>
+=======
+<<<<<<< HEAD
+        <element name="Form" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="Play" positionX="-63" positionY="0" width="128" height="75"/>
+=======
+        <element name="Form" positionX="-63" positionY="-18" width="128" height="90"/>
+>>>>>>> 172d1d4b31bed613b2ae173131a9cb6d880f7364
+>>>>>>> 28542238861fe27eb850b2ad05388a4320ca4be8
+    </elements>
+</model>

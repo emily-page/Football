@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13240" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Form" representedClassName="Form" syncable="YES" codeGenerationType="class">
+        <attribute name="formImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="formName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Play" representedClassName="Play" syncable="YES" codeGenerationType="class">
+        <attribute name="playImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="playName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Form" positionX="-63" positionY="-18" width="128" height="75"/>
+<<<<<<< HEAD
+        <element name="Play" positionX="-63" positionY="-18" width="128" height="75"/>
+=======
+        <element name="Play" positionX="-54" positionY="9" width="128" height="75"/>
+>>>>>>> 2579854560b642557a3e7f0d5349b3ee13316588
+    </elements>
+</model>
